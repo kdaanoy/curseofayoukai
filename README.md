@@ -1,2 +1,2 @@
 # Curse Of A Youkai
-![image](https://github.com/user-attachments/assets/05291ec9-528d-4814-a126-0bb2ff732318)
+(![Gameplay GIF](https://github.com/user-attachments/assets/f58e46a4-5a1b-4954-99f5-323b57fe6af5)
