@@ -10,7 +10,7 @@ There are tools, material and other features that support your solo mission to s
 
 ## 🎮 Installation & How to Play  
 ### **1️⃣ Download & Extract**  
-1. Click on **[Download Curse Of A Youkai](https://github.com/kdaanoy/curseofayoukai/blob/main/CurseOfAYoukai.zip)** to get the latest version.  
+1. Click on **[Download Curse Of A Youkai]()** to get the latest version.  
 2. Extract the ZIP file to your preferred location using **WinRAR**, **7-Zip**, or the built-in Windows extractor.  
 
 ### **2️⃣ Run the Game**  
