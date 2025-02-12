@@ -26,8 +26,3 @@ This game is licensed under **All Rights Reserved**.
 - You **may not redistribute, modify, or use it for commercial purposes**.  
 
 For inquiries about special permissions, please contact **[Your Email or GitHub Profile]**.  
-
----
-
-## 👤 Authors & Credits  
-- **[Kieran Daanoy]**
